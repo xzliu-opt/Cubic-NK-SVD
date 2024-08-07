@@ -8,7 +8,7 @@
   - Authors -  Xiaozhi Liu, Yong Xia
   - Arxiv link -  
 
-- If you use this simulation code package in any way, please cite the original paper [1] above.
+- If you use this simulation code package in any way, please cite the original paper above.
 - The author in charge of this simulation code pacakge is: Xiaozhi Liu (email: xzliu@buaa.edu.cn).
 
 ## Usage
