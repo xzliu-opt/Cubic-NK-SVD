@@ -4,9 +4,9 @@
 
 - This repository contains the MATLAB implementation of cubic NK-SVD algorithm designed for line spectral estimation (LSE) problem. The code is associated with the following paper :
 
-  - Title -  Cubic NK-SVD: An Algorithm for Designing Parametric Dictionary for Frequency Estimation
-  - Authors -  Xiaozhi Liu, Yong Xia
-  - Arxiv link -  
+  - Title - Cubic NK-SVD: An Algorithm for Designing Parametric Dictionary for Frequency Estimation
+  - Authors - Xiaozhi Liu, Yong Xia
+  - Arxiv link - https://arxiv.org/abs/2408.03708
 
 - If you use this simulation code package in any way, please cite the original paper above.
 - The author in charge of this simulation code pacakge is: Xiaozhi Liu (email: xzliu@buaa.edu.cn).
