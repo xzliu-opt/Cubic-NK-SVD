@@ -9,7 +9,7 @@
   - Arxiv link - https://arxiv.org/abs/2408.03708
 
 - If you use this simulation code package in any way, please cite the original paper above.
-- The author in charge of this simulation code pacakge is: Xiaozhi Liu (email: xzliu@buaa.edu.cn).
+- The author in charge of this simulation code package is: Xiaozhi Liu (email: xzliu@buaa.edu.cn).
 
 ## Usage
 The algorithm is implemented in the following two main files:
